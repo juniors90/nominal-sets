@@ -11,4 +11,11 @@ library](https://github.com/agda/agda-stdlib/).
   * Category of G-sets
 
 
+Resources
+
+- https://github.com/ryanorendorff/functional-linear-algebra
+- https://github.com/crypto-agda/agda-nplib/blob/master/lib/Algebra/VectorSpace.agda
+- https://github.com/agda/agda-stdlib/pull/1781
+
+
 
